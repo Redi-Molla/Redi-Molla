@@ -21,7 +21,7 @@ Feel free to explore my work, and don’t hesitate to reach out if you’re inte
 - 🔗 Version Control: Git, GitHub
 - 🎨 Collaboration & Design: Jira, Figma
 - 🌐 API Expertise: RESTful APIs, API Integration
-- 🔒 Security & Authentication: User authentication, bcrypt, JWT, Session management, oAuth
+- 🔒 Security & Authentication: User Authentication, Bcrypt, JWT, Session Management, OAuth
 - 🖥️ DOM Manipulation: Expertise in efficiently handling the DOM
 
 ## 🔗 Featured Projects
@@ -30,14 +30,14 @@ Feel free to explore my work, and don’t hesitate to reach out if you’re inte
 A virtual time capsule for your digital memories. Preserve photos, videos, and messages securely in capsules that can only be opened on a chosen future date. Relive cherished moments anytime, anywhere, with a sleek and intuitive user experience.
 
 **Tech Stack:**
-Frontend: React, react-router, axios
-Backend: Node.js, Express, knex, Multer, bcrypt for password hashing
+Frontend: React, React Router, Axios
+Backend: Node.js, Express, Knex, Multer, Bcrypt for password hashing
 Database: MySQL
 
 ### 🎥 Filmtaste (https://github.com/Redi-Molla/Filmtaste.git)
 Personalized movie recommendations based on your mood. Powered by the TMDb API, Filmtaste offers tailored movie suggestions to fit your current vibe and favorite genres. A must-have tool for movie lovers looking to discover their next favorite film.
 
-**Tech Stack:** HTML, API Integration, JavaScript,CSS
+**Tech Stack:** HTML, API Integration, JavaScript, CSS
 
 ### 🌐 Taskly (https://github.com/Redi-Molla/Taskly.git)
 Streamline your tasks and boost productivity. A user-friendly To-Do List web app designed to help you manage daily plans effectively. Organize tasks, set reminders, and never miss a deadline again.
