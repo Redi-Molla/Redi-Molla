@@ -12,17 +12,20 @@ Feel free to explore my work, and don’t hesitate to reach out if you’re inte
 
 ## 🔧 My Skills
 **Languages & Frameworks**
-- 🔊 Programming Languages: JavaScript, HTML, CSS, React, Node.js, Express.js, Python, C++, SQL, SASS
-- 📊 Database Management: MySQL
+- 🔊 Programming Languages: JavaScript, Python, C++, SQL
+- 📊 Database Management: MySQL, NoSQL, Firebase
+
+**Frameworks & Libraries**
+- ⚛️ Frontend: React, SASS
+- 🔙 Backend: Node.js, Express.js
 
 **Tools & Technologies**
 - 🧪 Testing & Debugging: Jest, Enzyme, Postman
-- 🚀 DevOps & Deployment: Webpack, Heroku
+- 🚀 DevOps & Deployment: Webpack, Heroku, Firebase
 - 🔗 Version Control: Git, GitHub
-- 🎨 Collaboration & Design: Jira, Figma
+- 🎨 Collaboration & Design: Jira, Figma, Miro, Confluence, Canva
 - 🌐 API Expertise: RESTful APIs, API Integration
 - 🔒 Security & Authentication: User Authentication, Bcrypt, JWT, Session Management, OAuth
-- 🖥️ DOM Manipulation: Expertise in efficiently handling the DOM
 
 ## 🔗 Featured Projects
 
