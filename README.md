@@ -23,7 +23,7 @@ Feel free to explore my work, and don’t hesitate to reach out if you’re inte
 - 🧪 Testing & Debugging: Jest, Enzyme, Postman
 - 🚀 DevOps & Deployment: Webpack, Heroku, Firebase
 - 🔗 Version Control: Git, GitHub
-- 🎨 Collaboration & Design: Jira, Figma, Miro, Confluence, Canva
+- 🎨 Collaboration & Design: Jira, Figma, Miro, Confluence, Canva, Microsoft Word, Outlook, Excel, PowerPoint
 - 🌐 API Expertise: RESTful APIs, API Integration
 - 🔒 Security & Authentication: User Authentication, Bcrypt, JWT, Session Management, OAuth
 
